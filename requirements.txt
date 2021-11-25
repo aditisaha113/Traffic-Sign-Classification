@@ -1,0 +1,8 @@
+tinkter
+pillow
+numpy
+pandas
+matplotlib
+cv2
+tensorflow
+sklearn
